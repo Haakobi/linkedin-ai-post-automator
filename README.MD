@@ -10,8 +10,9 @@ An autonomous end-to-end publishing pipeline built with **Make.com**, leveraging
 ## 📸 Scenario Architecture
 
 <p align="center">
-  <img src="assets/scenario_diagram.png" width="95%" alt="Make.com Scenario Pipeline" />
+  <img src="assets/make.PNG" width="100%" alt="Make.com Scenario Pipeline" />
 </p>
+
 
 ---
 
